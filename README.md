@@ -1,26 +1,26 @@
 # Alura-Store
-##Proposito del analisis realizado
+## Proposito del analisis realizado
 
 
 El proposito del proyecto es ayudar al Sr.Juan a tomar la mejor desicion en su negocio, para iniciar un nuevo emprendimiento.
 
-##Tecnologías utilizadas:
+## Tecnologías utilizadas:
 
-###Lenguaje
+### Lenguaje
 
 -Python
 
-###Librerías
+### Librerías
 
 -Pandas
 -Matplotlib
 
-###Notebook
+### Notebook
 
 -Google Colab
 
 
-##La estructura del proyecto y organización de los archivos
+## La estructura del proyecto y organización de los archivos
 
 
 En el proyecto encontrarás:
@@ -32,10 +32,10 @@ En el proyecto encontrarás:
 -El envió promedio de cada tienda.
 -Conclusiones y recomendación final.
 
-##Instrucciones para ejecutar el notebook.
+## Instrucciones para ejecutar el notebook.
 
 
 Ingresar al siguiente link: https://github.com/ferCadena/Alura-Store/blob/main/AluraStoreLatam%20(1).ipynb
 
-##Realizado por:
+## Realizado por:
 Fernando Covarrubias Cadena
